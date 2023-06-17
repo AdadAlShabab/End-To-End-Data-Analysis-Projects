@@ -1,5 +1,5 @@
 ### Data Analysis Projects
-This repository contains a collection of data analysis projects that I have worked on. The projects are written in Python and use a variety of data analysis libraries such as NumPy, Pandas, and Matplotlib,Seaborn.
+This repository contains a collection of data analysis projects that I have worked on.
 
 The projects are organized into the following categories:
 
