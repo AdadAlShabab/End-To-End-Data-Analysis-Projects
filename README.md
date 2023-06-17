@@ -9,6 +9,13 @@ Natural Language Processing (NLP): These projects involve using natural language
 Each project includes a README file that provides more information about the project, such as the data source, the data analysis techniques used, and the results of the analysis.</br>
 
 I hope that this repository will be a useful resource for anyone who is interested in learning about data analysis.
+### Technologies Used  
+![](https://forthebadge.com/images/badges/made-with-python.svg) 
+
+<img target="_blank" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
+<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
+
 
 ### Getting Started
 To get started with the projects in this repository, you will need to have the following installed:
