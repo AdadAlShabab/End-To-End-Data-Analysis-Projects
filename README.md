@@ -16,7 +16,6 @@ I hope that this repository will be a useful resource for anyone who is interest
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
 
-
 ### Getting Started
 To get started with the projects in this repository, you will need to have the following installed:
 
